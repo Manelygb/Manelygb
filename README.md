@@ -49,7 +49,7 @@ class ManelYagoub:
         ]
 
     def fun_fact(self):
-        return "I once lost projects to a Linux OS crash — but I remember every one of them 😄"
+        return "When I'm not coding, I'm lifting weights, running or baking. I have a sweet tooth 😄"
 ```
 
 ---
