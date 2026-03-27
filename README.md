@@ -97,11 +97,12 @@ class ManelYagoub:
 
 | Project | What it does | Stack |
 |---|---|---|
+Being updated!
 
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Experience Highlights (being updated)
 
 🔬 **AI Research Intern** @ New York University Abu Dhabi *(remote)* — Code optimization with RL & Tiramisu compiler
 
