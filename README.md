@@ -97,14 +97,7 @@ class ManelYagoub:
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🏛️ **AAOIFI Standards Enhancement** | Multi-agent LLM system: Extraction → Gap Analysis → Modification → Validation pipeline for Islamic finance standards | LangChain · GPT-4o · FastAPI |
-| 🛡️ **GRC AI Assistant** | Full-stack enterprise governance, risk & compliance assistant with RAG, document analysis & risk prediction | LangChain · Gemini · pgvector · FastAPI |
-| 💹 **Profit Pilot AI Agent** | Autonomous agent that monitors profit margins, forecasts trends & executes actions on user approval | OpenAI Agents SDK · GPT |
-| 🔐 **Network Intrusion Detection System** | Real-time packet monitoring with dual ML classification models, >95% accuracy on AWID dataset | Scapy · Zeek · FastAPI · Streamlit |
-| 🗣️ **Hate Speech Detection — DziriBERT** | Fine-tuned NLP model on Algerian dialect + real-time Chrome extension for content moderation | DziriBERT · FastAPI · NLP |
-| 📱 **Smart Bac Assistant** | Mobile app for an AI-powered Bac exam chatbot used by Algerian students | Flutter |
-| 📄 **CV Formatter Agent** | Automation workflow to reformat CVs from random templates to unified company standards | N8N · LLMs · Python |
-| 🤖 **CV Formatter - Automation** | Waste classification system finetuned on YOLO, deployed on Raspberry Pi 5 + Hailo accelerator | YOLO · Computer Vision · Edge AI |
+
 
 ---
 
@@ -139,7 +132,7 @@ class ManelYagoub:
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/douaa-manel-yagoub-11a550236/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douaa-manel-yagoub-11a550236/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manelyagoub5@gmail.com)
 
 ---
